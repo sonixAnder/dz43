@@ -1,0 +1,14 @@
+C:\Users\SSoni\Desktop\list of books to read\list of books to read\bin\Debug\net8.0\list of books to read.exe
+C:\Users\SSoni\Desktop\list of books to read\list of books to read\bin\Debug\net8.0\list of books to read.deps.json
+C:\Users\SSoni\Desktop\list of books to read\list of books to read\bin\Debug\net8.0\list of books to read.runtimeconfig.json
+C:\Users\SSoni\Desktop\list of books to read\list of books to read\bin\Debug\net8.0\list of books to read.dll
+C:\Users\SSoni\Desktop\list of books to read\list of books to read\bin\Debug\net8.0\list of books to read.pdb
+C:\Users\SSoni\Desktop\list of books to read\list of books to read\obj\Debug\net8.0\list of books to read.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SSoni\Desktop\list of books to read\list of books to read\obj\Debug\net8.0\list of books to read.AssemblyInfoInputs.cache
+C:\Users\SSoni\Desktop\list of books to read\list of books to read\obj\Debug\net8.0\list of books to read.AssemblyInfo.cs
+C:\Users\SSoni\Desktop\list of books to read\list of books to read\obj\Debug\net8.0\list of books to read.csproj.CoreCompileInputs.cache
+C:\Users\SSoni\Desktop\list of books to read\list of books to read\obj\Debug\net8.0\list of books to read.dll
+C:\Users\SSoni\Desktop\list of books to read\list of books to read\obj\Debug\net8.0\refint\list of books to read.dll
+C:\Users\SSoni\Desktop\list of books to read\list of books to read\obj\Debug\net8.0\list of books to read.pdb
+C:\Users\SSoni\Desktop\list of books to read\list of books to read\obj\Debug\net8.0\list of books to read.genruntimeconfig.cache
+C:\Users\SSoni\Desktop\list of books to read\list of books to read\obj\Debug\net8.0\ref\list of books to read.dll
